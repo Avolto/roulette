@@ -1,0 +1,14 @@
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\bin\Debug\Spider-ManRoulette.exe.config
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\bin\Debug\Spider-ManRoulette.exe
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\bin\Debug\Spider-ManRoulette.pdb
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider-ManRoulette.csprojResolveAssemblyReference.cache
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider_ManRoulette.Form1.resources
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider_ManRoulette.Properties.Resources.resources
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider_ManRoulette.Resource1.resources
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider-ManRoulette.csproj.GenerateResource.cache
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider-ManRoulette.csproj.CoreCompileInputs.cache
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider-ManRoulette.exe
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider-ManRoulette.pdb
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider_ManRoulette.Form2.resources
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider_ManRoulette.Form3.resources
+C:\Users\takan\source\repos\Spider-ManRoulette\Spider-ManRoulette\obj\Debug\Spider_ManRoulette.Form4.resources
